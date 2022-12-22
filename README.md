@@ -30,4 +30,6 @@ Employees-master
   Так же, мы можем обновить информацию о работнике.
   
   ![image](https://user-images.githubusercontent.com/109080032/209126419-2066474a-3142-4d75-996a-db38cc930dec.png)
+  
+  Приложение написано на основе [технического задания](https://docs.google.com/document/d/1WfN2AcFEWbunQOdH66dF8DP4konRUROU/edit).
 
