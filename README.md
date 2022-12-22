@@ -4,6 +4,7 @@ Employees-master
 +  редактирование 
 +  удаление 
 +  добавление
+
 ![Работники](https://user-images.githubusercontent.com/109080032/209124589-93328aa5-58e5-4b79-91fa-6e8a4688272c.png)
 # Описание классов проекта
  + EmployeeService 
