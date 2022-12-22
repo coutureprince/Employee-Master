@@ -19,10 +19,15 @@ Employees-master
  + Employee
  В классе Employee, мы получаем атрибуты
  # Рассмотрим Xaml 
+ 
  ![image](https://user-images.githubusercontent.com/109080032/209125929-dc33b862-17ae-4374-af5d-6b0c54df5f75.png)
+ 
   Таким образом, выглядит процесс добавления работника.
   Далее, рассмотрим основное окно, на котором будет видна вся информация, которую мы добавили.
+  
   ![image](https://user-images.githubusercontent.com/109080032/209126019-0593ceb5-a074-431c-8418-ec1cead37a89.png)
+  
   Так же, мы можем обновить информацию о работнике.
+  
   ![image](https://user-images.githubusercontent.com/109080032/209126419-2066474a-3142-4d75-996a-db38cc930dec.png)
 
