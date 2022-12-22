@@ -9,7 +9,7 @@ Employees-master
   Пример заполненной базы данных:
   
   
-![Работники2](https://user-images.githubusercontent.com/109080032/209126823-05a92b45-0d4e-4611-91af-dbf5d404802d.png)
+![Работники пример](https://user-images.githubusercontent.com/109080032/209127286-37b19d50-103e-47d8-aee8-12b7c917baf0.png)
 
 # Описание классов проекта
  + EmployeeService 
