@@ -6,6 +6,9 @@ Employees-master
 +  добавление
 
 ![Работники](https://user-images.githubusercontent.com/109080032/209124589-93328aa5-58e5-4b79-91fa-6e8a4688272c.png)
+
+![Работники2](https://user-images.githubusercontent.com/109080032/209126823-05a92b45-0d4e-4611-91af-dbf5d404802d.png)
+
 # Описание классов проекта
  + EmployeeService 
  В данном классе, мы добавляем,удаляем и обновляем информациию о работниках
